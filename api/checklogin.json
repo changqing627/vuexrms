@@ -1,0 +1,16 @@
+[
+    {
+        "id":0,
+        "idtype":125635444,
+        "username":"admin",
+        "realname":"常情",
+        "passowrd":123456
+    },
+    {
+        "id":1,
+        "idtype":56541261,
+        "username":"gust",
+        "realname":"晶晶",
+        "passowrd":123456
+    }
+]
